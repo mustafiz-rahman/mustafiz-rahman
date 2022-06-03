@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Md Mostafizur Rahman
+### Hi there 👋, I'm MD MOSTAFIZUR RAHMAN
 
 I am a full-stack software engineer with experience in large-scale web applications and back-end systems, using a variety of coding languages, frameworks, and technologies. I am self-motivated and passionate about programming, from designing system architecture to diving deep into frameworks and problem solving.
 
